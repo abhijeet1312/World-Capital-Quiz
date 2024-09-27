@@ -14,7 +14,7 @@ This project is built using:
 **Node.js**: To handle the server-side logic.
 **PostgreSQL**: As the robust database solution to store and manage data related to countries and their capitals
 Enjoy the Game!!!!
-[screenshot1](https://github.com/abhijeet1312/World-Capital-Quiz/blob/master/images/Screenshot%202024-09-27%20233944.png)
+![screenshot1](https://github.com/abhijeet1312/World-Capital-Quiz/blob/master/images/Screenshot%202024-09-27%20233944.png)
 
 
-[screenshot2](https://github.com/abhijeet1312/World-Capital-Quiz/blob/master/images/Screenshot%202024-09-27%20234007.png)
+![screenshot2](https://github.com/abhijeet1312/World-Capital-Quiz/blob/master/images/Screenshot%202024-09-27%20234007.png)
